@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+}
+
+.forms {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.skill-form, .education-form, .experience-form {
+    margin-bottom: 10px;
+}
+
+.resume-preview {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+}
